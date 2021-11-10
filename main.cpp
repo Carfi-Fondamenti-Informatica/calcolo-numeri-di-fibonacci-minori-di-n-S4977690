@@ -8,7 +8,7 @@ int main() {
         r = p + s;
         p = s;
         s = r;
-        if (f<=n) {
+        if (r<=n) {
         cout << r << endl;
         }
     }
